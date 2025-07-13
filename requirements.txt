@@ -1,0 +1,10 @@
+django
+groq
+python-dotenv
+djangorestframework
+django-cors-headers
+python-pptx
+python-docx
+langchain
+langchain-groq
+Pillow
